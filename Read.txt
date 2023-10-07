@@ -1,0 +1,17 @@
+Note: You have to import the Database into localhost (mysql)
+
+Super Admin ->
+desilvabethmin@gmail.com
+123
+
+Admin ->
+senethmavinumi@gmail.com
+123
+
+User ->
+hasithmavinuki@gmail.com
+123
+
+Note: You have to manually add the imagess to the img file and enter the image name with the extention when adding a new product.
+
+Created by Januda Bethmin - SE/2020/051 on 2023-10-06
